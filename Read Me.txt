@@ -1,0 +1,8 @@
+#Credit Card SQL Capstone Project
+
+This SQL project focuses on the credit card department of a bank
+that heavily relies on data science for acquiring new credit card customers.
+The primary objective is to design and optimize a data-driven Credit Scoring system, 
+known as the application scorecard, to evaluate applicants' creditworthiness accurately. 
+The system aids in setting cutoff values for credit card applications,
+thereby assessing the level of risk associated with each applicant.
